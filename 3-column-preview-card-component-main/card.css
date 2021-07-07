@@ -23,6 +23,7 @@ html{
     font-family: Big Shoulders Display;
     font-size: 150%;
     color:var(--white-text);
+    text-transform: uppercase;
 }
 
 
